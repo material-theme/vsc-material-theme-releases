@@ -1,5 +1,23 @@
 [
   {
+    "title": "August 30, 2018",
+    "version": "2.4.2",
+    "breaking": [],
+    "fixed": [
+      "Fix missing commands"
+    ],
+    "new": []
+  },
+  {
+    "title": "August 30, 2018",
+    "version": "2.4.1",
+    "breaking": [],
+    "fixed": [
+      "Fix new settings view colors for Code <= 1.26.0"
+    ],
+    "new": []
+  },
+  {
     "title": "August 29, 2018",
     "version": "2.4.0",
     "breaking": [
