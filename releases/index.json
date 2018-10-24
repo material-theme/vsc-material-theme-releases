@@ -1,0 +1,22 @@
+[
+  {
+    "title": "August 29, 2018",
+    "version": "2.4.0",
+    "breaking": [
+      "New file icons auto applying and notifications behaviors"
+    ],
+    "fixed": [
+      "Many UI fixes and small improvements",
+      "General colors and contrast",
+      "Fix color contrast for hovered custom menu items (Win/Lin)"
+    ],
+    "new": [
+      "New file icons",
+      "Support for custom menus (Windows/Linux)",
+      "Support for the editor breadcrumb",
+      "Support for editor new settings view",
+      "Add new Release Notes command",
+      "Add icons to root folders"
+    ]
+  }
+]
