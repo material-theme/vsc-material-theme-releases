@@ -1,10 +1,11 @@
 [
   {
     "title": "October 25, 2018",
-    "version": "2.5.0",
+    "version": "2.5.1",
     "breaking": [],
     "fixed": [
-      "Fix colors for function parameters and their values"
+      "Fix colors for function parameters and their values",
+      "Fix custom menu separators color"
     ],
     "new": [
       "New protobuf and storybook file icons"
