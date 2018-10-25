@@ -1,5 +1,16 @@
 [
   {
+    "title": "October 25, 2018",
+    "version": "2.5.0",
+    "breaking": [],
+    "fixed": [
+      "Fix colors for function parameters and their values"
+    ],
+    "new": [
+      "New protobuf and storybook file icons"
+    ]
+  },
+  {
     "title": "August 30, 2018",
     "version": "2.4.2",
     "breaking": [],
