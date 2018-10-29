@@ -1,6 +1,18 @@
 [
   {
     "title": "October 25, 2018",
+    "version": "2.5.2",
+    "breaking": [],
+    "fixed": [
+      "Fix build/dist/out folder icon",
+      "Extend test icon to __test__ and __tests__"
+    ],
+    "new": [
+      "New protobuf and storybook file icons"
+    ]
+  },
+  {
+    "title": "October 25, 2018",
     "version": "2.5.1",
     "breaking": [],
     "fixed": [
