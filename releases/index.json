@@ -5,10 +5,8 @@
     "breaking": [],
     "fixed": [
       "Fix build/dist/out folder icon",
-      "Extend test icon to __test__ and __tests__"
-    ],
-    "new": [
-      "New protobuf and storybook file icons"
+      "Extend test icon to __test__ and __tests__",
+      "Add borders to sidebar section headers for HC variants"
     ]
   },
   {
