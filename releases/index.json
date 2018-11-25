@@ -1,6 +1,13 @@
 [
   {
     "title": "November 25, 2018",
+    "version": "2.6.1",
+    "fixed": [
+      "Fix file icons auto apply regression."
+    ]
+  },
+  {
+    "title": "November 25, 2018",
     "version": "2.6.0",
     "breaking": [
       "Reset accent command was not restoring previous settings. You may need to enable again the theme.",
