@@ -3,7 +3,8 @@
     "title": "November 25, 2018",
     "version": "2.6.0",
     "breaking": [
-      "Fix reset accent color command that was not restoring previous settings. You may need to enable again the theme."
+      "Reset accent command was not restoring previous settings. You may need to enable again the theme.",
+      "Next release Material Theme will not provide file icons anymore. We will ship them as separate extension."
     ],
     "fixed": [
       "Improve languageid file icons support",
