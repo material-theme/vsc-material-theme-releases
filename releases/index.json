@@ -1,12 +1,19 @@
 [
   {
-    "title": "October 25, 2018",
-    "version": "2.5.2",
-    "breaking": [],
+    "title": "November 25, 2018",
+    "version": "2.6.0",
+    "breaking": [
+      "Fix reset accent color command that was not restoring previous settings. You may need to enable again the theme."
+    ],
     "fixed": [
+      "Improve languageid file icons support",
       "Fix build/dist/out folder icon",
       "Extend test icon to __test__ and __tests__",
       "Add borders to sidebar section headers for HC variants"
+    ],
+    "new": [
+      "Add mix.lock file icon",
+      "Add now.json file icon "
     ]
   },
   {
