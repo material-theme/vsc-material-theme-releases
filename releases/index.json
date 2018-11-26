@@ -2,9 +2,11 @@
   {
     "title": "November 25, 2018",
     "version": "2.6.1",
+    "breaking": [],
     "fixed": [
       "Fix file icons auto apply regression."
-    ]
+    ],
+    "new": []
   },
   {
     "title": "November 25, 2018",
