@@ -1,5 +1,14 @@
 [
   {
+    "title": "November 30, 2018",
+    "version": "2.6.2",
+    "breaking": [],
+    "fixed": [],
+    "new": [
+      "Add support to the new dirty tab indicator"
+    ]
+  },
+  {
     "title": "November 25, 2018",
     "version": "2.6.1",
     "breaking": [],
