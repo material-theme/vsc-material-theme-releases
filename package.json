@@ -2,13 +2,14 @@
   "name": "materialthemechangelog",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "Material Theme Changelog on Sanity.io",
   "main": "package.json",
-  "author": "Alessio Occhipinti <alessio.occhipinti@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "Apache 2.0",
   "scripts": {
     "start": "sanity start",
-    "test": "xo && sanity check"
+    "deploy": "sanity deploy",
+    "test": "xo && sanity check",
+    "test-travis": "xo"
   },
   "keywords": [
     "sanity"

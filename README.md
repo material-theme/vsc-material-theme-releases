@@ -1,11 +1,25 @@
-# Sanity Blogging Content Studio
+# Material Theme Changelog on Sanity.io
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+> Material Theme Changelog saved as structured content on Sanity.io
 
-Now you can do the following things:
+## Develop
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- Check out the example frontend: [React/Next.js](https://github.com/sanity-io/tutorial-sanity-blog-react-next)
-- [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+You should have `sanity` CLI installed and access to the Material Theme Changelog project on Sanity.io.
+
+- Clone the repository
+- `sanity login`
+- `yarn start` - run the local Sanity studio
+
+### Schema changes
+
+`Schemas` are the main part of the repo and should be modified carefully.
+Sanity documentation: https://www.sanity.io/docs/content-studio/the-schema
+
+We have a custom `light-block-content` which is basically a small version of the big `block-content`, used for every block content inside `release`.
+
+## Deploy
+
+- `yarn test`
+- `yarn deploy`
+
+
