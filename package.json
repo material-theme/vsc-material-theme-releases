@@ -1,0 +1,43 @@
+{
+  "name": "materialthemechangelog",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "Alessio Occhipinti <alessio.occhipinti@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "test": "xo && sanity check"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^0.139.1",
+    "@sanity/components": "^0.139.1",
+    "@sanity/core": "^0.139.1",
+    "@sanity/default-layout": "^0.139.1",
+    "@sanity/default-login": "^0.139.0",
+    "@sanity/desk-tool": "^0.139.1",
+    "prop-types": "^15.6",
+    "react": "^16.2",
+    "react-dom": "^16.2"
+  },
+  "devDependencies": {
+    "xo": "0.23.0"
+  },
+  "xo": {
+    "spaces": true,
+    "rules": {
+      "max-len": [
+        "error",
+        {
+          "code": 120,
+          "ignoreUrls": true
+        }
+      ],
+      "capitalized-comments": "off"
+    }
+  }
+}
